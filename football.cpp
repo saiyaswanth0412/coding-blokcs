@@ -13,7 +13,7 @@ bool one(string s,string ones)
 
 				break;
 			}
-			if(j==ones.l
+			if(j==ones.l)
 			{
 
 				return true;	
